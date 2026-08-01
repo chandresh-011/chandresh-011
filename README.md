@@ -64,25 +64,13 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
 </p>
 
 ### Tools
@@ -112,7 +100,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/chandresh-011/chandresh-011/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/chandresh-011/chandresh-011/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 ---
@@ -134,14 +122,6 @@ A collection of Python programs covering Python fundamentals, OOP, file handling
 ### 💻 C++ Practice
 
 Programs covering OOP, arrays, strings, linked lists, and DSA concepts.
-
-### 📍 Nearby Services Locator
-
-A location-based web application that helps users find nearby hospitals, pharmacies, and police stations using maps and geolocation.
-
-### 📚 Online Bookstore Website
-
-A responsive bookstore website built using HTML, CSS, and JavaScript.
 
 ---
 
