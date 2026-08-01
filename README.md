@@ -111,9 +111,7 @@
 
 # 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chandresh-011/chandresh-011/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
+<img src="https://raw.githubusercontent.com/chandresh-011/chandresh-011/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 
 ---
 
