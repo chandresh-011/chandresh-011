@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Learning+Data+Structures+%26+Algorithms;Web+Development+Enthusiast;Python+%7C+C%2B%2B+%7C+JavaScript;Always+Learning+New+Things!" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=chandresh-011&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
