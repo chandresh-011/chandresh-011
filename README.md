@@ -57,25 +57,13 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python" />
 </p>
 
 ### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### Tools
@@ -90,15 +78,15 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chandresh-011&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=chandresh-011&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandresh-011&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -107,7 +95,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandresh-011&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -115,15 +103,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/chandresh-011/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -135,16 +115,6 @@
 * 🚀 Open Source Contributions
 
 ---
-
-# 🚀 Featured Projects
-
-### 📍 Nearby Services Locator
-
-A location-based web application that helps users find nearby hospitals, pharmacies, and police stations using maps and geolocation.
-
-### 🛒 Online Bookstore Website
-
-Responsive bookstore website built using HTML, CSS, and JavaScript.
 
 ### 🐍 Python Practice
 
@@ -161,7 +131,8 @@ Programs covering OOP, arrays, strings, linked lists, and DSA concepts.
 * 💛 HackerRank
 * 💙 LeetCode
 
-(Add your profile links here.)
+https://www.hackerrank.com/profile/chandresh_011
+https://leetcode.com/u/chandresh-011/
 
 ---
 
