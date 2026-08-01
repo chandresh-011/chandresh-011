@@ -128,11 +128,11 @@ Programs covering OOP, arrays, strings, linked lists, and DSA concepts.
 
 # 📅 Coding Profiles
 
-* 💛 HackerRank
-* 💙 LeetCode
+* 💛 HackerRank:https://www.hackerrank.com/profile/chandresh_011
+* 💙 LeetCode:https://leetcode.com/u/chandresh-011/
 
-https://www.hackerrank.com/profile/chandresh_011
-https://leetcode.com/u/chandresh-011/
+
+
 
 ---
 
