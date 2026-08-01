@@ -37,15 +37,15 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/chandresh-011">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/chandresh-kumar-pathak-787aa2411/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:pathak.chandresh011@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 </p>
