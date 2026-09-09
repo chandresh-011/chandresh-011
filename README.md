@@ -47,7 +47,7 @@
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/chandresh-kumar-pathak-787aa2411/">
+<a href="https://www.linkedin.com/in/chandreshpathak011/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
